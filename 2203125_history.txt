@@ -1,0 +1,263 @@
+    1  who
+    2  who am i
+    3  pwd
+    4  ls
+    5  ls -al
+    6  git --version
+    7  git status
+    8  git init
+    9  git status
+   10  git add .
+   11  git status
+   12  git config --global user.name "Ritesh Prakashrao Phulari"
+   13  git config --global user.email "riteshprakashraop@gmail.com
+   14  "
+   15  vim .gitconfig
+   16  vi .gitconfig
+   17  git config --global user.email "riteshprakashraop@gmail.com"
+   18  vi .gitconfig
+   19  ls -la ~/.ssh |grep 'id_rsa'
+   20  ssh-keygen -t RSA
+   21  ls -la ~/.ssh | grep 'id-rsa'
+   22  ls
+   23  ls -la ~/.ssh | grep 'RITESH'
+   24  cat RITESH.pub
+   25  git clone git@github.com:PhulariRitesh/cs102-git-essentials.git
+   26  cd
+   27  ls -al
+   28  cd .ssh
+   29  ls -al
+   30  ls
+   31  ssh keygen -t RSA
+   32  ssh-keygen -t RSA
+   33  LS
+   34  ls
+   35  vi id_rsa.pub
+   36  cd
+   37  git clone git@github.com:PhulariRitesh/cs102-git-essentials.git
+   38  git push origin main
+   39  git status
+   40  git add .
+   41  git status
+   42  git push origin main
+   43  git status
+   44  git commit . -m "final commit"
+   45  git push origin main
+   46  ls
+   47  cd cs102-git-essentials/
+   48  git push origin main
+   49  ls
+   50  cd
+   51  git clone git@github.com:Harshilpatel2605/first_repository.git
+   52  ls -al
+   53  cd first_repository/
+   54  echo "hii" >> 1.txt
+   55  git add 1.txt
+   56  git commit . -m "second commit"
+   57  git log
+   58  git push origin main
+   59  git push origin master
+   60  git push -u origin master
+   61  git push origin main
+   62  git remote add origin URI of my repo
+   63  git push origin main
+   64  cd
+   65  ls
+   66  cd cs102-git-essentials/
+   67  git push origin main
+   68  git sdtatus
+   69  git status
+   70  git log
+   71  echo "Hello" >> 1.txt
+   72  git add 1.txt
+   73  git status
+   74  git log
+   75  git commit -m "Hii"
+   76  git log
+   77  git push origin main
+   78  git@github.com:Harshilpatel2605/first_repository.gitgit@github.com:Harshilpatel2605/first_repository.git
+   79  history
+   80  ls -al
+   81  cd cs102-git-essentials/
+   82  ls -al
+   83  touch cs102-lecture-notes.txt
+   84  git add .
+   85  git status
+   86  git commit -m "local: added cs102 lecture notes"
+   87  git log
+   88  git push origin main
+   89  git pull origin main
+   90  vi cs102-lecture-notes.txt 
+   91   
+   92  vi cs102-lecture-notes.txt 
+   93  git add .
+   94  git status
+   95  git diff <commit>
+   96  git diff
+   97  git diff --staged
+   98  git commit -m "new changes"
+   99  git log
+  100  git status
+  101  touch cs102-102-imp.txt
+  102  rm cs102-102-imp.txt 
+  103  touch cs-102-imp.txt
+  104  vi cs-102-imp.txt 
+  105  git add cs-102-imp.txt 
+  106  git status
+  107  git commit --amend "This will overwrite previous commit'
+  108  "
+  109  git commit --amend cs-102-imp.txt 
+  110  git log
+  111  git push main origin
+  112  git push origin main
+  113  history
+  114  logout
+  115  git clone git@github.com:PhulariRitesh/PhulariRitesh.github.io.git
+  116  cd PhulariRitesh.github.io
+  117  echo "Hello World" > README.md
+  118  git add --all
+  119  git commit -m "Initial commit"
+  120  git push -u origin main
+  121  code .
+  122  ls
+  123  cd PhulariRitesh.github.io/
+  124  code .
+  125  ls -lart
+  126  cd .
+  127  cd ..
+  128  ls
+  129  history
+  130  ssh-keygen -t RSA
+  131  git clone git@github.com:PhulariRitesh/2203125-lab-exam.git
+  132  ls
+  133  cs 2203125-lab-exam/
+  134  cd 2203125-lab-exam/
+  135  ls
+  136  vi README.md 
+  137  cd
+  138  git clone https://github.com/tusharlone/cs102-git-essentials.git
+  139  cd 2203125-lab-exam/
+  140  git clone https://github.com/tusharlone/cs102-git-essentials.git
+  141  git pull origin main
+  142  ls
+  143  cd cs102`
+'
+  144  cd cs102-git-essentials/
+  145  ls
+  146  cp ca_500.csv 2203125-lab-exam
+  147  cp us_500.csv 2203125-lab-exam
+  148  cd
+  149  cd 2203125-lab-exam/
+  150  ld
+  151  ls
+  152  cd cs102
+  153  cd cs102-git-essentials/
+  154  ls
+  155  cd 2203125-lab-exam
+  156  cp ca_500.csv ~/home
+  157  cp us_500.csv ~/home
+  158  cd
+  159  ls
+  160  cd home
+  161  cat home
+  162  cd cs102-git-essentials/
+  163  cd 2203125-lab-exam
+  164  ls
+  165  cd
+  166  cd 2203125-lab-exam/
+  167  cd cs102-git-essentials/
+  168  ls
+  169  cp ca_500.csv ~/2203125-lab-exam/
+  170  cp us_500.csv ~/2203125-lab-exam/
+  171  cd .
+  172  cd ..
+  173  ls
+  174  cat ca_500.csv 
+  175  cat us_500.csv 
+  176  cat ca_500.csv | head -n 1
+  177  cat us_500.csv | head -n 1
+  178  wc -l ca_500.csv 
+  179  cat ca_500.csv 
+  180  touch ca_city_Montreal.csv
+  181  wc -l ca_500.csv > ca_city_Montreal.csv 
+  182  wc -l us_500.csv > ca_city_Montreal.csv 
+  183  cat ca_500.csv | head -n 1 > ca_city_Montreal.csv 
+  184  cat us_500.csv | head -n 1 > ca_city_Montreal.csv 
+  185  cat ca_500.csv > ca_city_Montreal.csv 
+  186  wc -l ca_500.csv
+  187  wc -l us_500.csv
+  188  vi
+  189  vi 2203125_data_filter.sh 
+  190  bash 2203125_data_filter.sh 
+  191  bash 2203125_data_filter.sh us_500.csv city Miami
+  192  vi 2203125_data_filter.sh 
+  193  bash 2203125_data_filter.sh us_500.csv city Miami
+  194  vi 2203125_data_filter.sh 
+  195  bash 2203125_data_filter.sh us_500.csv city Miami
+  196  vi 2203125_data_filter.sh 
+  197  bash 2203125_data_filter.sh us_500.csv city Miami
+  198  vi 2203125_data_filter.sh 
+  199  bash 2203125_data_filter.sh us_500.csv city Miami
+  200  vi 2203125_data_filter.sh 
+  201  bash 2203125_data_filter.sh us_500.csv city Miami
+  202  vi 2203125_data_filter.sh 
+  203  bash 2203125_data_filter.sh us_500.csv city Miami
+  204  vi 2203125_data_filter.sh 
+  205  bash 2203125_data_filter.sh us_500.csv city Miami
+  206  vi 2203125_data_filter.sh 
+  207  bash 2203125_data_filter.sh us_500.csv city Miami
+  208  vi 2203125_data_filter.sh 
+  209  bash 2203125_data_filter.sh us_500.csv city Miami
+  210  vi 2203125_data_filter.sh 
+  211  bash 2203125_data_filter.sh us_500.csv city Miami
+  212  vi 2203125_data_filter.sh 
+  213  bash 2203125_data_filter.sh us_500.csv city Miami
+  214  vi 2203125_data_filter.sh 
+  215  bash 2203125_data_filter.sh us_500.csv city Miami
+  216  vi 2203125_data_filter.sh 
+  217  bash 2203125_data_filter.sh us_500.csv city Miami
+  218  vi 2203125_data_filter.sh 
+  219  bash 2203125_data_filter.sh us_500.csv city Miami
+  220  vi 2203125_data_filter.sh 
+  221  bash 2203125_data_filter.sh us_500.csv city Miami
+  222  vi 2203125_data_filter.sh 
+  223  bash 2203125_data_filter.sh us_500.csv city Miami
+  224  vi 2203125_data_filter.sh 
+  225  bash 2203125_data_filter.sh us_500.csv city Miami
+  226  vi 2203125_data_filter.sh 
+  227  bash 2203125_data_filter.sh us_500.csv city Miami
+  228  vi 2203125_data_filter.sh 
+  229  bash 2203125_data_filter.sh us_500.csv city Miami
+  230  vi 2203125_data_filter.sh 
+  231  touch 1.txt
+  232  vi 2203125_data_filter.sh 
+  233  bash 2203125_data_filter.sh us_500.csv city Miami
+  234  vi 2203125_data_filter.sh 
+  235  bash 2203125_data_filter.sh us_500.csv city Miami
+  236  vi 2203125_data_filter.sh 
+  237  bash 2203125_data_filter.sh us_500.csv city Miami
+  238  vi 2203125_data_filter.sh 
+  239  bash 2203125_data_filter.sh us_500.csv city Miami
+  240  vi 2203125_data_filter.sh 
+  241  bash 2203125_data_filter.sh us_500.csv city Miami
+  242  vi 2203125_data_filter.sh 
+  243  bash 2203125_data_filter.sh us_500.csv city Miami
+  244  vi 2203125_data_filter.sh 
+  245  bash 2203125_data_filter.sh us_500.csv city Miami
+  246  vi 2203125_data_filter.sh 
+  247  bash 2203125_data_filter.sh us_500.csv city Miami
+  248  vi 2203125_data_filter.sh 
+  249  mkdir code
+  250  mkdir data
+  251  mv *.sh code
+  252  mv *.txt data
+  253  ls
+  254  cd data
+  255  ls
+  256  cd code
+  257  cd ..
+  258  cd code
+  259  ls
+  260  cd ..
+  261  history
+  262  history > 2203125_history.txt
