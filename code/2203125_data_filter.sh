@@ -30,7 +30,7 @@ wc -l $file
 
 for i in $file    #applying for loop on file again
 do
-	for k in $i
+	for k in $i    # applying for loop on lines of file
 	do
 		echo $k #printing first word of each line of file content
 	done	
